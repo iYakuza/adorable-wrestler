@@ -32,7 +32,7 @@ n positive integer
 
 b) write a function "fib_memo" that uses [memoization](https://en.wikipedia.org/wiki/Memoization) to compute the fibonacci function
 
-c) write a function called "fib_matrix_exp" that uses [exponentiation](https://en.wikipedia.org/wiki/Exponentiation_by_squaring) in order to compute the fibonacci function
+c) write a function called "fib_matrix_exp" that uses [exponentiation](https://en.wikipedia.org/wiki/Exponentiation_by_squaring) in order to compute the [fibonacci](https://en.wikipedia.org/wiki/Fibonacci_number#Matrix_form) function
 
 d) use the time package and [matplotlib](https://matplotlib.org/)
 to time and plot the execution time of all fibonacci implementations (a to c).
