@@ -12,6 +12,9 @@ Robots do chores
 
 ---
 
+<<<<<< readme-edits
+🦋 Is this a change?
+=======
 
 # Introduction to Python
 
@@ -36,3 +39,4 @@ to time and plot the execution time of all fibonacci implementations (a to c).
 n = 10000, execute each function 10 times and take the average time it took to complete
 
 Add the plot to this readme.
+>>>>>> main
