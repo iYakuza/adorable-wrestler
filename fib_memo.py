@@ -25,3 +25,4 @@ def fib_memo(x):
         return numar_stiva
 for x in range (1, val):
     print(fib_memo(x))
+    
