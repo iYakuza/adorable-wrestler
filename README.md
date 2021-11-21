@@ -57,4 +57,10 @@ Add the plot to this readme.
 12. Imma use the vscode's Commit icon
 13. I have learned that between a change and commit there is a stage step which is for 2 major things: 1 - security and 2 - batches of files
 14. I am using git add . to add it all
+15. I have commited my changes.
 
+## Branch vs main lesson
+However, I should have: created a branch of main > call the brench using checkout > stage my changes > commit them > pull main to have the last updates of the file > merge updates to branch > determine and fix merge conflicts > stage my changes > commit them > push them.
+Now, my collabs are notified and my changes are separated from the main.
+
+This way, my changes will no longer be directly merged to main. I apologize. Lesson learned
