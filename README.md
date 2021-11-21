@@ -40,3 +40,21 @@ n = 10000, execute each function 10 times and take the average time it took to c
 
 Add the plot to this readme.
 >>>>>> main
+
+## Draga jurnalule,
+22/11 12:16 AM
+1. Installed Google Drive
+2. Reset vscode
+3. Synced git once more
+4. Cloned adorable-wrestler repo to Google Drive
+5. Added these lines to get comfy
+6. I need to talk to myself to understand
+7. Learning git functions. used: git status
+8. I saved the readme file
+9. I typed in git status again. It now tells me that readme.md was modified
+10. I shall use git commit -a to commit all changes
+11. git commit -a won't work. it requires me to close the file
+12. Imma use the vscode's Commit icon
+13. I have learned that between a change and commit there is a stage step which is for 2 major things: 1 - security and 2 - batches of files
+14. I am using git add . to add it all
+
